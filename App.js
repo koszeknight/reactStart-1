@@ -6,7 +6,7 @@ import ViewImageScreen from './app/screens/ViewImageScreen';
 import WelcomeScreen from './app/screens/WelcomeScreen';
 
 //testing
-
+// Add test commen
 import {MaterialCommunityIcons} from '@expo/vector-icons'
 import AppButton from './app/components/AppButton';
 
